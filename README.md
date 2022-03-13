@@ -1,12 +1,18 @@
-## Welcome to liu xingyu's home
+# Welcome to liu xingyu's home
 
-[editor on GitHub](https://github.com/lxy1010/lxy1010.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+哦，你来了。请相信我，这只是一个 **普普通通 平平无奇** 的小站,请让我介绍一下...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 欢迎来到刘星宇的家
 
-### Markdown
+（咳咳..）好了，制作这个并没有花费我很多时间，他很棒
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 开源
+
+这个是开放源代码的，在[这儿](https://github.com/lxy1010/lxy1010.github.io/edit/main/README.md)看源码（其实没啥看头）
+
+## 我的github主页
+
+嗯呢，你可以到[这儿](https://github.com/lxy1010)看我的更多项目
 
 ```markdown
 Syntax highlighted code block
