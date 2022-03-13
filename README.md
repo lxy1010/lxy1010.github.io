@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to liu xingyu's home
 
 You can use the [editor on GitHub](https://github.com/lxy1010/lxy1010.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
