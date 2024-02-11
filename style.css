@@ -112,3 +112,15 @@ html {
     list-style: none;
     padding-inline-end: 10px;
 }
+
+button {
+    width: 100px;
+    height: 70px;
+    background-color: #bbaa99;
+    border-color: #bbaa99;
+}
+
+input {
+    width: 100px;
+    height: 80px;
+}
