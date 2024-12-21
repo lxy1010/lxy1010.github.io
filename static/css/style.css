@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'SmileySans';
+    src: url("../font/SmileySans-Oblique.otf.woff2") format('woff2');
+}
+
+body {
+    font-family: 'SmileySans', sans-serif;
+    letter-spacing: 2px;
+}
+
+.text-holder {
+    background: #f8d7da;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 100px;
+}
