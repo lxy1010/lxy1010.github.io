@@ -16,3 +16,8 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     margin-bottom: 100px;
 }
+
+.para {
+    white-space: pre-wrap;
+    font-size: large;
+}
